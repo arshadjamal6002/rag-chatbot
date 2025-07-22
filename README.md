@@ -144,12 +144,14 @@ Question: ...
 
 | Chat Example                      | Streaming UI                      |
 | --------------------------------- | --------------------------------- |
-| ![](screenshots/chat_preview.png) | ![](screenshots/streamlit_ui.png) |
+| ![](scrrenshots/chat_preview.png) | ![](scrrenshots/streamlit_ui.png) |
 
+![](scrrenshots/3.png) 
 ---
 
 ## 🎥 Demo Video
 
+[Watch demo video](scrrenshots/recorder_screen.webm)
 
 ---
 
