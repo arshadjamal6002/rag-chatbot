@@ -188,7 +188,7 @@ Question: ...
 
 ## 👨‍💻 Author
 
-**Mehak Arora**
+**Arshad Jamal**
 🧪 Passionate about NLP, Open-Source LLMs, and AI Products
 
 ---
