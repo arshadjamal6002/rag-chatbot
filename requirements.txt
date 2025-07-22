@@ -1,0 +1,12 @@
+streamlit
+langchain
+faiss-cpu              # or faiss-gpu if CUDA available
+sentence-transformers
+transformers
+torch
+openllm
+datasets
+accelerate
+tqdm
+markdown
+python-dotenv
